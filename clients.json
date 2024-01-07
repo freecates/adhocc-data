@@ -1,0 +1,157 @@
+[
+    {
+        "name": "MAC",
+        "logo": "https://adhocdata.vercel.app/static/clients/mac-adhoc-cultura.jpg",
+        "id": "001"
+    },
+    {
+        "name": "Col·legi Oficial d'infermers/-eres de Girona",
+        "logo": "https://adhocdata.vercel.app/static/clients/coigi-adhoc-cultura.jpg",
+        "id": "002"
+    },
+    {
+        "name": "Fundació Iluró - Mataró",
+        "logo": "https://adhocdata.vercel.app/static/clients/iluro-adhoc-cultura.jpg",
+        "id": "003"
+    },
+    {
+        "name": "Mémora",
+        "logo": "https://adhocdata.vercel.app/static/clients/memora-adhoc-cultura.jpg",
+        "id": "004"
+    },
+    {
+        "name": "Museu Empordà",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-emporda-adhoc-cultura.jpg",
+        "id": "005"
+    },
+    {
+        "name": "Xarxa de museus comarques de Girona",
+        "logo": "https://adhocdata.vercel.app/static/clients/xarxa-museus-comarques-girona-adhoc-cultura.jpg",
+        "id": "006"
+    },
+    {
+        "name": "What's Up",
+        "logo": "https://adhocdata.vercel.app/static/clients/what-s-up-adhoc-cultura.jpg",
+        "id": "007"
+    },
+    {
+        "name": "Agència Catalana del Patrimoni Cultural",
+        "logo": "https://adhocdata.vercel.app/static/clients/agencia-catalana-patrimoni-cultural-adhoc-cultural.jpg",
+        "id": "008"
+    },
+    {
+        "name": "Museu del Juguet de Catalunya Figueres",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-del-juguet-adhoc-cultura.jpg",
+        "id": "009"
+    },
+    {
+        "name": "Grup Escoles Mataró",
+        "logo": "https://adhocdata.vercel.app/static/clients/gem-adhoc-cultura.jpg",
+        "id": "010"
+    },
+    {
+        "name": "Museu del Ferrocarril de Catalunya",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-del-ferrocarril-adhoc-cultura.jpg",
+        "id": "011"
+    },
+    {
+        "name": "Casa Vicens Gaudí",
+        "logo": "https://adhocdata.vercel.app/static/clients/casa-vicens-adhoc-cultura.jpg",
+        "id": "012"
+    },
+    {
+        "name": "Museu de les Aigües Agbar",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-aigues-agbar-adhoc-cultura.jpg",
+        "id": "013"
+    },
+    {
+        "name": "Museu de L'Hospitalet",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-hospitalet-adhoc-cultura.jpg",
+        "id": "014"
+    },
+    {
+        "name": "Fundació Jaume Bofill",
+        "logo": "https://adhocdata.vercel.app/static/clients/fundacio-jaume-bofill-adhoc-cultura.jpg",
+        "id": "015"
+    },
+    {
+        "name": "Xarxa de Biblioteques de Barcelona",
+        "logo": "https://adhocdata.vercel.app/static/clients/xarxa-biblioteques-municipals-adhoc-cultura.jpg",
+        "id": "016"
+    },
+    {
+        "name": "Òmnium Cultural",
+        "logo": "https://adhocdata.vercel.app/static/clients/omnium-cultural-adhoc-cultura.jpg",
+        "id": "017"
+    },
+    {
+        "name": "Fundació Carulla",
+        "logo": "https://adhocdata.vercel.app/static/clients/fundacio-carulla-adhoc-cultura.jpg",
+        "id": "018"
+    },
+    {
+        "name": "Ajuntament de Sabadell",
+        "logo": "https://adhocdata.vercel.app/static/clients/ajuntament-de-sabadell-adhoc-cultura.jpg",
+        "id": "019"
+    },
+    {
+        "name": "Amics del MNAC",
+        "logo": "https://adhocdata.vercel.app/static/clients/amics-del-mnac-adhoc-cultura.jpg",
+        "id": "020"
+    },
+    {
+        "name": "Farinera de Castelló",
+        "logo": "https://adhocdata.vercel.app/static/clients/farinera-de-castello-adhoc-cultura.jpg",
+        "id": "021"
+    },
+    {
+        "name": "Fundació Catalunya Cultura",
+        "logo": "https://adhocdata.vercel.app/static/clients/fundacio-catalunya-cultura-adhoc-cultura.jpg",
+        "id": "022"
+    },
+    {
+        "name": "Institut Ramon Llull",
+        "logo": "https://adhocdata.vercel.app/static/clients/institut-ramon-llull-adhoc-cultura.jpg",
+        "id": "023"
+    },
+    {
+        "name": "Museu d'Art de Girona",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-d-art-de-girona-adhoc-cultura.jpg",
+        "id": "024"
+    },
+    {
+        "name": "Museu del Suro",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-del-suro-adhoc-cultura.jpg",
+        "id": "025"
+    },
+    {
+        "name": "Playmedia",
+        "logo": "https://adhocdata.vercel.app/static/clients/playmedia-adhoc-cultura.jpg",
+        "id": "026"
+    },
+    {
+        "name": "Xarxa de Museus d'Art de Catalunya",
+        "logo": "https://adhocdata.vercel.app/static/clients/xarxa-de-museus-d-art-de-catalunya-adhoc-cultura.jpg",
+        "id": "027"
+    },
+    {
+        "name": "ICUB",
+        "logo": "https://adhocdata.vercel.app/static/clients/icub-adhoc-cultura.jpg",
+        "id": "028"
+    },
+    {
+        "name": "Xarxa de Museus de Tarragona",
+        "logo": "https://adhocdata.vercel.app/static/clients/xarxa-museus-tarragona-adhoc-cultura.jpg",
+        "id": "029"
+    },
+    {
+        "name": "Ajuntament de Terrassa",
+        "logo": "https://adhocdata.vercel.app/static/clients/ajuntament-de-terrassa-adhoc-cultura.jpg",
+        "id": "030"
+    },
+    {
+        "name": "Museu de Montcada",
+        "logo": "https://adhocdata.vercel.app/static/clients/museu-de-montcada-adhoc-cultura.jpg",
+        "id": "031"
+    }
+]
