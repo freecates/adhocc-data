@@ -1,30 +1,36 @@
 [
     {
+        "title": "Auditoria",
         "name": "Auditoria i consultoria general de cultura",
         "img": "https://adhocdata.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
         "id": "001"
     },
     {
+        "title": "Estudi",
         "name": "Estudi, disseny i millora instal·lacions i materials audiovisuals",
         "img": "https://adhocdata.vercel.app/static/serveis/estudi-disseny-millora-instal-lacions-i-materials-audiovisuals.jpg",
         "id": "002"
     },
     {
+        "title": "Innovació",
         "name": "Innovació cultural i+d en cultura",
         "img": "https://adhocdata.vercel.app/static/serveis/innovacio-cultural-i-mes-d-en-cultura.jpg",
         "id": "003"
     },
     {
+        "title": "Producció",
         "name": "Producció, creació, gestió i comunicació esdeveniments culturals",
         "img": "https://adhocdata.vercel.app/static/serveis/produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals.jpg",
         "id": "004"
     },
     {
+        "title": "Programació",
         "name": "Programació, comissariat i muntatge exposicions",
         "img": "https://adhocdata.vercel.app/static/serveis/programacio-comissariat-i-muntatge-exposicions.jpg",
         "id": "005"
     },
     {
+        "title": "Educació",
         "name": "Serveis educatius per a institucions culturals",
         "img": "https://adhocdata.vercel.app/static/serveis/serveis-educatius-per-a-institucions-culturals.jpg",
         "id": "006"
