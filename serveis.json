@@ -5,7 +5,8 @@
         "img": "https://adhocdata.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
         "id": "001",
         "slug": "auditoria-i-consultoria-general-cultura",
-        "type": "serveis"
+        "type": "serveis",
+        "description": "Oferim  serveis de consultoria per a institucions culturals i altres organitzacions, ajudant-les a desenvolupar estratègies i implementar projectes culturals amb èxit. La nostra experiència ens permet assessorar en la presa de decisions i l'execució efectiva dels  objectius. Pots consultar els projectes destacats del Museu de l'Empordà, l'Ateneu Centre Cultural de la fundació Iluro o el projecte educatiu de la Casa vicens d'Antoni Gaudí."
     },
     {
         "title": "Estudi",
