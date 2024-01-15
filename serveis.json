@@ -2,7 +2,7 @@
     {
         "title": "Auditoria",
         "name": "Auditoria i consultoria general de cultura",
-        "img": "https://adhocdata.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
+        "img": "https://adhocc-data.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
         "id": "001",
         "slug": "auditoria-i-consultoria-general-cultura",
         "type": "serveis",
@@ -11,7 +11,7 @@
     {
         "title": "Estudi",
         "name": "Estudi, disseny i millora instal·lacions i materials audiovisuals",
-        "img": "https://adhocdata.vercel.app/static/serveis/estudi-disseny-millora-instal-lacions-i-materials-audiovisuals.jpg",
+        "img": "https://adhocc-data.vercel.app/static/serveis/estudi-disseny-millora-instal-lacions-i-materials-audiovisuals.jpg",
         "id": "002",
         "slug": "estudi-disseny-millora-instal-lacions-i-materials-audiovisuals",
         "type": "serveis"
@@ -19,7 +19,7 @@
     {
         "title": "Innovació",
         "name": "Innovació cultural i+d en cultura",
-        "img": "https://adhocdata.vercel.app/static/serveis/innovacio-cultural-i-mes-d-en-cultura.jpg",
+        "img": "https://adhocc-data.vercel.app/static/serveis/innovacio-cultural-i-mes-d-en-cultura.jpg",
         "id": "003",
         "slug": "innovacio-cultural-i-mes-d-en-cultura",
         "type": "serveis"
@@ -27,7 +27,7 @@
     {
         "title": "Producció",
         "name": "Producció, creació, gestió i comunicació esdeveniments culturals",
-        "img": "https://adhocdata.vercel.app/static/serveis/produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals.jpg",
+        "img": "https://adhocc-data.vercel.app/static/serveis/produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals.jpg",
         "id": "004",
         "slug": "produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals",
         "type": "serveis"
@@ -35,7 +35,7 @@
     {
         "title": "Programació",
         "name": "Programació, comissariat i muntatge exposicions",
-        "img": "https://adhocdata.vercel.app/static/serveis/programacio-comissariat-i-muntatge-exposicions.jpg",
+        "img": "https://adhocc-data.vercel.app/static/serveis/programacio-comissariat-i-muntatge-exposicions.jpg",
         "id": "005",
         "slug": "programacio-comissariat-i-muntatge-exposicions",
         "type": "serveis"
@@ -43,7 +43,7 @@
     {
         "title": "Educació",
         "name": "Serveis educatius per a institucions culturals",
-        "img": "https://adhocdata.vercel.app/static/serveis/serveis-educatius-per-a-institucions-culturals.jpg",
+        "img": "https://adhocc-data.vercel.app/static/serveis/serveis-educatius-per-a-institucions-culturals.jpg",
         "id": "006",
         "slug": "serveis-educatius-per-a-institucions-culturals",
         "type": "serveis"

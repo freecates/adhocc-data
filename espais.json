@@ -1,25 +1,25 @@
 [
     {
         "name": "LANAUVA",
-        "img": "https://adhocdata.vercel.app/static/espais/lanauva.jpg",
+        "img": "https://adhocc-data.vercel.app/static/espais/lanauva.jpg",
         "description": "Un espai empresarial on hi pasen coses. Un lloc de treball i coworking en un entorn agradable al bell mig de Sabadell: Treball però també formació i saber per mitjà de les TesTalks o les taules rodones amb experts i professionals de referència el transformen en un espai d’acció empresarial i de debat sobre temes professionals, però també socials i culturals.",
         "id": "001"
     },
     {
         "name": "EspaiSID",
-        "img": "https://adhocdata.vercel.app/static/espais/espai-sid.jpg",
+        "img": "https://adhocc-data.vercel.app/static/espais/espai-sid.jpg",
         "description": "#EspaiSid és un centre de producció i experimentació que disposa d’espais per a artistes en residència, els quals es poden llogar per a estades curtes fins a tres mesos. No obstant això l’espai de co-working està orientat altres sectors de l’àmbit creatiu cultural com el cinema, el disseny, la publicitat, l’arquitectura, la programació. Ampliant els serveis a l’exposició de treballs i a la presentació de projectes, celebració de conferències, etc.",
         "id": "002"
     },
     {
         "name": "Can Pepitu",
-        "img": "https://adhocdata.vercel.app/static/espais/can-pepitu.jpg",
+        "img": "https://adhocc-data.vercel.app/static/espais/can-pepitu.jpg",
         "description": "Històric local amb terrassa sobre el mar on podreu gaudir d’una oferta gastronòmica especialitzada en tapes i aperitius, amb exposicions d’art a l’interior. Periòdicament s’hi programen música i estones d’oci i cultura. Música, art i bones estones. Ideal per a organitzar debats, converses i petites mostres d’art i fotografia.",
         "id": "003"
     },
     {
         "name": "Espai Creactiu",
-        "img": "https://adhocdata.vercel.app/static/espais/espai-creactiu.jpg",
+        "img": "https://adhocc-data.vercel.app/static/espais/espai-creactiu.jpg",
         "description": "Un espai on pots fabricar, intercanviar experiències, aprendre i poc a poc crear una base de coneixement a disposició que puguin aprofitar tots els amics i col.laboradors d’Adhoc Cultura que s’acostin tant virtualment com físicament",
         "id": "004"
     }
