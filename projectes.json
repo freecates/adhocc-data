@@ -1,68 +1,72 @@
-[
-    {
-        "title": "Museu de l'Empordà",
-        "id": "001",
-        "slug": "museu-de-l-emporda",
-        "type": "projectes"
-    },
-    {
-        "title": "Casa Vicens",
-        "id": "002",
-        "slug": "casa-vicens",
-        "type": "projectes"
-    },
-    {
-        "title": "Museu de l'Hospitalet",
-        "id": "003",
-        "slug": "museu-de-l-hospitalet",
-        "type": "projectes"
-    },
-    {
-        "title": "Ateneu Centre Cultural de la Fundacio Iluro",
-        "id": "004",
-        "slug": "ateneu-centre-cultural-de-la-fundacio-iluro",
-        "type": "projectes"
-    },
-    {
-        "title": "Arts en salut, programes Pilot al Museu de l'Empordà i al Museu d'art de Cerdanyola",
-        "id": "005",
-        "slug": "arts-en-salut-programes-pilot-al-museu-de-l-emporda-i-al-museu-d-art-de-cerdanyola",
-        "type": "projectes"
-    },
-    {
-        "title": "Drets culturals - museus bcn",
-        "id": "006",
-        "slug": "drets-culturals-museus-bcn",
-        "type": "projectes"
-    },
-    {
-        "title": "Taula Educació i Museus ",
-        "id": "007",
-        "slug": "taula-educacio-i-museus",
-        "type": "projectes"
-    },
-    {
-        "title": "Biblioteques de l'Hospitalet",
-        "id": "008",
-        "slug": "biblioteques-de-l-hospitalet",
-        "type": "projectes"
-    },
-    {
-        "title": "La Nut",
-        "id": "009",
-        "slug": "la-nut",
-        "type": "projectes"
-    },
-    {
-        "title": "PAD (Patrimoni Art Digital)",
-        "id": "010",
-        "slug": "pad-patrimoni-art-digital",
-        "type": "projectes"
-    },
-    {
-        "title": "Bici Lab Andorra. El Museu de la Bicicleta",
-        "id": "011",
-        "slug": "bici-lab-andorra-el-museu-de-la-bicicleta",
-        "type": "projectes"
-    }
-]
+{
+    "title": "Projectes",
+    "description": "Projectes destacats",
+    "data": [
+        {
+            "title": "Museu de l'Empordà",
+            "id": "001",
+            "slug": "museu-de-l-emporda",
+            "type": "projectes"
+        },
+        {
+            "title": "Casa Vicens",
+            "id": "002",
+            "slug": "casa-vicens",
+            "type": "projectes"
+        },
+        {
+            "title": "Museu de l'Hospitalet",
+            "id": "003",
+            "slug": "museu-de-l-hospitalet",
+            "type": "projectes"
+        },
+        {
+            "title": "Ateneu Centre Cultural de la Fundacio Iluro",
+            "id": "004",
+            "slug": "ateneu-centre-cultural-de-la-fundacio-iluro",
+            "type": "projectes"
+        },
+        {
+            "title": "Arts en salut, programes Pilot al Museu de l'Empordà i al Museu d'art de Cerdanyola",
+            "id": "005",
+            "slug": "arts-en-salut-programes-pilot-al-museu-de-l-emporda-i-al-museu-d-art-de-cerdanyola",
+            "type": "projectes"
+        },
+        {
+            "title": "Drets culturals - museus bcn",
+            "id": "006",
+            "slug": "drets-culturals-museus-bcn",
+            "type": "projectes"
+        },
+        {
+            "title": "Taula Educació i Museus ",
+            "id": "007",
+            "slug": "taula-educacio-i-museus",
+            "type": "projectes"
+        },
+        {
+            "title": "Biblioteques de l'Hospitalet",
+            "id": "008",
+            "slug": "biblioteques-de-l-hospitalet",
+            "type": "projectes"
+        },
+        {
+            "title": "La Nut",
+            "id": "009",
+            "slug": "la-nut",
+            "type": "projectes"
+        },
+        {
+            "title": "PAD (Patrimoni Art Digital)",
+            "id": "010",
+            "slug": "pad-patrimoni-art-digital",
+            "type": "projectes"
+        },
+        {
+            "title": "Bici Lab Andorra. El Museu de la Bicicleta",
+            "id": "011",
+            "slug": "bici-lab-andorra-el-museu-de-la-bicicleta",
+            "type": "projectes"
+        }
+    ]
+}
