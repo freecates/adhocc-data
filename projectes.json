@@ -57,6 +57,7 @@
         {
             "title": "La Nut",
             "name": "El gran repte pendent dels equipaments culturals és captar l'interès del públic més jove i això requereix de proveir-los de continguts i experiències de qualitat",
+            "img": "https://adhocc-data.vercel.app/static/projectes/la-nut-euphoria.webp",
             "id": "009",
             "slug": "la-nut",
             "type": "projectes"
