@@ -1,0 +1,5 @@
+Casa Vicens és la primera casa del gran arquitecte del modernisme Antoni Gaudí. Declarada Patrimoni Mundial per la UNESCO, MoraBanc, banc privat de propietat familiar de referència a Andorra, va adquirir la propietat el març del 2014 i va posar en marxa un projecte curós i ambiciós de rehabilitació i restauració de l’immoble. 
+
+Al 2018, la direcció de la casa encarrega a Adhoc Cultura la redacció, l'articulació i la implementació i el desplegament del pla educatiu de la Casa Vicens. I, com a resultat d’aquesta demanda, l'any 2019 van posar en marxa el pla educatiu, fruit de mesos de feina seguint la nostra metodologia de treball, amb un focus grup creat a partir de nombroses sessions de treball dutes a terme amb entitats, joves, professors i alumnes, tant de l'àmbit públic com privat. 
+
+El resultat va ser un pla educatiu alineat, d'una banda, amb els valors de la Casa Vicens: creativitat, excel·lència, audàcia, descobriment i proximitat, i, de l'altra, amb les demandes de l’entorn, tant familiar com educatiu, per descobrir de manera pedagògica aquest Patrimoni Mundial de la UNESCO.
