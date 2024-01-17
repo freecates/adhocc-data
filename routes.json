@@ -14,5 +14,13 @@
     {
         "name": "Treballem per",
         "url": "/treballem-per"
+    },
+    {
+        "name": "Contacte",
+        "url": "/contacte",
+        "icon": {
+            "name": "send",
+            "size": "24"
+        }
     }
 ]
