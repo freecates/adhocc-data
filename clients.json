@@ -153,5 +153,10 @@
         "name": "Museu de Montcada",
         "logo": "https://adhocc-data.vercel.app/static/clients/museu-de-montcada-adhoc-cultura.jpg",
         "id": "031"
+    },
+    {
+        "name": "Bibloiteques de l'Hospitalet",
+        "logo": "https://adhocc-data.vercel.app/static/clients/biblioteques-de-l-hospitalet-adhoc-cultura.jpg",
+        "id": "032"
     }
 ]
