@@ -1,51 +1,59 @@
-[
-    {
-        "title": "Auditoria",
-        "name": "Auditoria i consultoria general de cultura",
-        "img": "https://adhocc-data.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
-        "id": "001",
-        "slug": "auditoria-i-consultoria-general-cultura",
-        "type": "serveis",
-        "description": "Oferim  serveis de consultoria per a institucions culturals i altres organitzacions, ajudant-les a desenvolupar estratègies i implementar projectes culturals amb èxit. La nostra experiència ens permet assessorar en la presa de decisions i l'execució efectiva dels  objectius. Pots consultar els projectes destacats del Museu de l'Empordà, l'Ateneu Centre Cultural de la fundació Iluro o el projecte educatiu de la Casa vicens d'Antoni Gaudí."
+{
+    "title": "Serveis",
+    "description": "A partir de la nostra metodologia i gràcies als nostres partners podem oferir un ampli ventall de serveis i adaptar-nos a les necessitats dels nostres clients i col·laboradors per a poder desenvolupar projectes per promocionar la cultura i apropar-la a la societat.",
+    "image": {
+        "src": "/bg-adhoc-cultura-320.jpg",
+        "alt": "Adhoc Logo"
     },
-    {
-        "title": "Estudi",
-        "name": "Estudi, disseny i millora instal·lacions i materials audiovisuals",
-        "img": "https://adhocc-data.vercel.app/static/serveis/estudi-disseny-millora-instal-lacions-i-materials-audiovisuals.jpg",
-        "id": "002",
-        "slug": "estudi-disseny-millora-instal-lacions-i-materials-audiovisuals",
-        "type": "serveis"
-    },
-    {
-        "title": "Innovació",
-        "name": "Innovació cultural i+d en cultura",
-        "img": "https://adhocc-data.vercel.app/static/serveis/innovacio-cultural-i-mes-d-en-cultura.jpg",
-        "id": "003",
-        "slug": "innovacio-cultural-i-mes-d-en-cultura",
-        "type": "serveis"
-    },
-    {
-        "title": "Producció",
-        "name": "Producció, creació, gestió i comunicació esdeveniments culturals",
-        "img": "https://adhocc-data.vercel.app/static/serveis/produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals.jpg",
-        "id": "004",
-        "slug": "produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals",
-        "type": "serveis"
-    },
-    {
-        "title": "Programació",
-        "name": "Programació, comissariat i muntatge exposicions",
-        "img": "https://adhocc-data.vercel.app/static/serveis/programacio-comissariat-i-muntatge-exposicions.jpg",
-        "id": "005",
-        "slug": "programacio-comissariat-i-muntatge-exposicions",
-        "type": "serveis"
-    },
-    {
-        "title": "Educació",
-        "name": "Serveis educatius per a institucions culturals",
-        "img": "https://adhocc-data.vercel.app/static/serveis/serveis-educatius-per-a-institucions-culturals.jpg",
-        "id": "006",
-        "slug": "serveis-educatius-per-a-institucions-culturals",
-        "type": "serveis"
-    }
-]
+    "data": [
+        {
+            "title": "Auditoria",
+            "name": "Auditoria i consultoria general de cultura",
+            "img": "https://adhocc-data.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
+            "id": "001",
+            "slug": "auditoria-i-consultoria-general-cultura",
+            "type": "serveis",
+            "description": "Oferim  serveis de consultoria per a institucions culturals i altres organitzacions, ajudant-les a desenvolupar estratègies i implementar projectes culturals amb èxit. La nostra experiència ens permet assessorar en la presa de decisions i l'execució efectiva dels  objectius. Pots consultar els projectes destacats del Museu de l'Empordà, l'Ateneu Centre Cultural de la fundació Iluro o el projecte educatiu de la Casa vicens d'Antoni Gaudí."
+        },
+        {
+            "title": "Estudi",
+            "name": "Estudi, disseny i millora instal·lacions i materials audiovisuals",
+            "img": "https://adhocc-data.vercel.app/static/serveis/estudi-disseny-millora-instal-lacions-i-materials-audiovisuals.jpg",
+            "id": "002",
+            "slug": "estudi-disseny-millora-instal-lacions-i-materials-audiovisuals",
+            "type": "serveis"
+        },
+        {
+            "title": "Innovació",
+            "name": "Innovació cultural i+d en cultura",
+            "img": "https://adhocc-data.vercel.app/static/serveis/innovacio-cultural-i-mes-d-en-cultura.jpg",
+            "id": "003",
+            "slug": "innovacio-cultural-i-mes-d-en-cultura",
+            "type": "serveis"
+        },
+        {
+            "title": "Producció",
+            "name": "Producció, creació, gestió i comunicació esdeveniments culturals",
+            "img": "https://adhocc-data.vercel.app/static/serveis/produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals.jpg",
+            "id": "004",
+            "slug": "produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals",
+            "type": "serveis"
+        },
+        {
+            "title": "Programació",
+            "name": "Programació, comissariat i muntatge exposicions",
+            "img": "https://adhocc-data.vercel.app/static/serveis/programacio-comissariat-i-muntatge-exposicions.jpg",
+            "id": "005",
+            "slug": "programacio-comissariat-i-muntatge-exposicions",
+            "type": "serveis"
+        },
+        {
+            "title": "Educació",
+            "name": "Serveis educatius per a institucions culturals",
+            "img": "https://adhocc-data.vercel.app/static/serveis/serveis-educatius-per-a-institucions-culturals.jpg",
+            "id": "006",
+            "slug": "serveis-educatius-per-a-institucions-culturals",
+            "type": "serveis"
+        }
+    ]
+}
