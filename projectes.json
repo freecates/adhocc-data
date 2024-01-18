@@ -8,6 +8,8 @@
     "data": [
         {
             "title": "Museu de l'Empordà",
+            "name": "Amb la nova direcció del museu (2017) iniciem el procés per poder articular un nou servei educatiu",
+            "img": "https://adhocc-data.vercel.app/static/projectes/museu-de-l-emporda.jpg",
             "id": "001",
             "slug": "museu-de-l-emporda",
             "type": "projectes"
@@ -22,30 +24,40 @@
         },
         {
             "title": "Museu de l'Hospitalet",
+            "name": "L'any 2018, el Museu de l'Hospitalet (MdLH) va iniciar un procés d'innovació pedagògica per tal de transformar i actualitzar l'oferta del seu servei educatiu.",
+            "img": "https://adhocc-data.vercel.app/static/projectes/museu-de-l-hospitalet.jpg",
             "id": "003",
             "slug": "museu-de-l-hospitalet",
             "type": "projectes"
         },
         {
             "title": "Ateneu Centre Cultural de la Fundacio Iluro",
+            "name": "L'any 2021, de la mà de la Fundació Iluro, vam portar a terme el replantejament de les funcions i els usos d'un dels seus espais emblemàtics",
+            "img": "https://adhocc-data.vercel.app/static/projectes/ateneu-centre-cultural-de-la-fundacio-iluro.jpg",
             "id": "004",
             "slug": "ateneu-centre-cultural-de-la-fundacio-iluro",
             "type": "projectes"
         },
         {
             "title": "Arts en salut, programes Pilot al Museu de l'Empordà i al Museu d'art de Cerdanyola",
+            "name": "Les Arts en Salut, metodologia que és la que internacionalment es coneix com a Arts in Health, és una disciplina acadèmica àmplia que està creixent",
+            "img": "https://adhocc-data.vercel.app/static/projectes/arts-en-salut-programes-pilot-al-museu-de-l-emporda-i-al-museu-d-art-de-cerdanyola.jpg",
             "id": "005",
             "slug": "arts-en-salut-programes-pilot-al-museu-de-l-emporda-i-al-museu-d-art-de-cerdanyola",
             "type": "projectes"
         },
         {
             "title": "Drets culturals - museus bcn",
+            "name": "Barcelona s'afegeix al debat internacional sobre els drets culturals amb un pla de ciutat específic i pioner",
+            "img": "https://adhocc-data.vercel.app/static/projectes/drets-culturals-museus-bcn.jpg",
             "id": "006",
             "slug": "drets-culturals-museus-bcn",
             "type": "projectes"
         },
         {
             "title": "Taula Educació i Museus ",
+            "name": "Per encàrrec de la Direcció de Patrimoni Cultural i l'Institut de Cultura de l'Ajuntament de Barcelona el 2022 iniciem l'impuls de Taula Educació i Museus",
+            "img": "https://adhocc-data.vercel.app/static/projectes/taula-educacio-i-museus.jpg",
             "id": "007",
             "slug": "taula-educacio-i-museus",
             "type": "projectes"
@@ -68,12 +80,16 @@
         },
         {
             "title": "PAD (Patrimoni Art Digital)",
+            "name": "El PAD (Patrimoni Art Digital) és un projecte que neix de la voluntat de fer que els i les joves s'apropiín dels espais culturals i se'ls facin seus",
+            "img": "https://adhocc-data.vercel.app/static/projectes/pad-patrimoni-art-digital.jpg",
             "id": "010",
             "slug": "pad-patrimoni-art-digital",
             "type": "projectes"
         },
         {
             "title": "Bici Lab Andorra. El Museu de la Bicicleta",
+            "name": "Desenvolupar el projecte museològic i la producció del Museu de la Bicicleta",
+            "img": "https://adhocc-data.vercel.app/static/projectes/bici-lab-andorra-el-museu-de-la-bicicleta.jpg",
             "id": "011",
             "slug": "bici-lab-andorra-el-museu-de-la-bicicleta",
             "type": "projectes"
