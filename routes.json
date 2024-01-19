@@ -4,12 +4,16 @@
         "url": "/qui-som"
     },
     {
-        "name": "Serveis",
-        "url": "/serveis"
+        "name": "Partners",
+        "url": "/partners"
     },
     {
         "name": "Mètode",
         "url": "/el-nostre-metode"
+    },
+    {
+        "name": "Serveis",
+        "url": "/serveis"
     },
     {
         "name": "Treballem per",
