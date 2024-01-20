@@ -7,53 +7,57 @@
     },
     "data": [
         {
-            "title": "Auditoria",
-            "name": "Auditoria i consultoria general de cultura",
+            "title": "Consultoria",
+            "name": "Consultoria i implementació",
             "img": "https://adhocc-data.vercel.app/static/serveis/auditoria-i-consultoria-general-cultura.jpg",
             "id": "001",
-            "slug": "auditoria-i-consultoria-general-cultura",
+            "slug": "consultoria-i-implementacio",
             "type": "serveis",
-            "description": "Oferim  serveis de consultoria per a institucions culturals i altres organitzacions, ajudant-les a desenvolupar estratègies i implementar projectes culturals amb èxit. La nostra experiència ens permet assessorar en la presa de decisions i l'execució efectiva dels  objectius. Pots consultar els projectes destacats del Museu de l'Empordà, l'Ateneu Centre Cultural de la fundació Iluro o el projecte educatiu de la Casa vicens d'Antoni Gaudí."
+            "description": "Oferim serveis de consultoria per a institucions culturals i altres organitzacions per ajudar-les a desenvolupar estratègies i implementar projectes culturals amb èxit. La nostra experiència ens permet-los assessorar en la presa de decisions i l'execució efectiva dels objectius. Es poden consultar els projectes destacats del Museu de l'Empordà, l'Ateneu Centre Cultural de la Fundació Iluro o el projecte educatiu de la Casa Vicens d'Antoni Gaudí."
         },
         {
-            "title": "Estudi",
-            "name": "Estudi, disseny i millora instal·lacions i materials audiovisuals",
-            "img": "https://adhocc-data.vercel.app/static/serveis/estudi-disseny-millora-instal-lacions-i-materials-audiovisuals.jpg",
-            "id": "002",
-            "slug": "estudi-disseny-millora-instal-lacions-i-materials-audiovisuals",
-            "type": "serveis"
-        },
-        {
-            "title": "Innovació",
+            "title": "Innovació I+D",
             "name": "Innovació cultural i+d en cultura",
             "img": "https://adhocc-data.vercel.app/static/serveis/innovacio-cultural-i-mes-d-en-cultura.jpg",
-            "id": "003",
+            "id": "002",
             "slug": "innovacio-cultural-i-mes-d-en-cultura",
+            "type": "serveis",
+            "description": "Estem compromesos amb la innovació en el camp cultural. Desenvolupem projectes de recerca i desenvolupament per incorporar noves idees, tecnologies i pràctiques al sector, garantint una perspectiva holística i posant les persones al centre. Es poden consultar el projecte La Nut, el Pla de drets culturals dels museus de Barcelona o el projecte d'Arts en Salut."
+        },
+        {
+            "title": "Mediació",
+            "name": "Mediació de projectes",
+            "img": "https://adhocc-data.vercel.app/static/serveis/mediacio-de-projectes.jpg",
+            "id": "003",
+            "slug": "mediacio-de-projectes",
             "type": "serveis"
+        },
+        {
+            "title": "Coordinació",
+            "name": "Coordinació i dinamització d'equips de treball",
+            "img": "https://adhocc-data.vercel.app/static/serveis/coordinacio-i-dinamitzacio-d-equips-de-treball.jpg",
+            "id": "004",
+            "slug": "coordinacio-i-dinamitzacio-d-equips-de-treball",
+            "type": "serveis",
+            "description": "Amb una metodologia pròpia amb el concepte d'estratègia compartida, oferim serveis de coordinació i dinamització de comissions, taules de treball i equips. Ho fem garantint una interacció positiva i eficient entre tots els membres. Treballem per potenciar el treball en equip i l'assoliment dels objectius compartits. Es pot consultar l'Espai Mètode i el projecte de coordinació i dinamització de la Taula d'Educació i Museus de Barcelona."
         },
         {
             "title": "Producció",
-            "name": "Producció, creació, gestió i comunicació esdeveniments culturals",
+            "name": "Producció, creació, gestió i comunicació d'esdeveniments culturals",
             "img": "https://adhocc-data.vercel.app/static/serveis/produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals.jpg",
-            "id": "004",
+            "id": "005",
             "slug": "produccio-creacio-gestio-i-comunicacio-esdeveniments-culturals",
-            "type": "serveis"
+            "type": "serveis",
+            "description": "Organitzem esdeveniments culturals que destaquen per la qualitat i l'originalitat. Assegurem una producció impecable per oferir experiències memorables als assistents. Es pot consultar el projecte PAD (Patrimoni Art Digital). "
         },
         {
             "title": "Programació",
             "name": "Programació, comissariat i muntatge exposicions",
             "img": "https://adhocc-data.vercel.app/static/serveis/programacio-comissariat-i-muntatge-exposicions.jpg",
-            "id": "005",
-            "slug": "programacio-comissariat-i-muntatge-exposicions",
-            "type": "serveis"
-        },
-        {
-            "title": "Educació",
-            "name": "Serveis educatius per a institucions culturals",
-            "img": "https://adhocc-data.vercel.app/static/serveis/serveis-educatius-per-a-institucions-culturals.jpg",
             "id": "006",
-            "slug": "serveis-educatius-per-a-institucions-culturals",
-            "type": "serveis"
+            "slug": "programacio-comissariat-i-muntatge-exposicions",
+            "type": "serveis",
+            "description": "Disposem d'un equip de col·labors i col·laborades i partners interdisciplinaris especialitzats a programar, comissariar i muntar exposicions culturals. Des de la selecció de les obres fins a la presentació visual, vetllem perquè cada exposició sigui única i captivadora. Es pot consultar el projecte del Museu de la Bicicleta d'Andorra."
         }
     ]
 }
