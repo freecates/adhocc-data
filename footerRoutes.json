@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Contacte",
+        "url": "/contacte"
+    },
+    {
+        "name": "Avís legal",
+        "url": "/avis-legal"
+    },
+    {
+        "name": "Política de cookies",
+        "url": "/politica-de-cookies"
+    },
+    {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/company/adhoc-cultura/",
+        "external": true,
+        "icon": {
+            "name": "linkedin",
+            "size": "20"
+        }
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/adhoccultura",
+        "external": true,
+        "icon": {
+            "name": "instagram",
+            "size": "20"
+        }
+    }
+]
