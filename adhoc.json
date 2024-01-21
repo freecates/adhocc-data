@@ -10,70 +10,70 @@
         "quote": "El propòsit és fer créixer l'empoderament, el benestar i l'enriquiment emocional de les persones",
         "author": "Per què",
         "bg": "bgGray50",
-        "color": "textBlack",
+        "color": "textGray900",
         "id": "002"
     },
     {
         "quote": "Oferim una metodologia i unes eines perquè les organitzacions i les persones a qui donem suport siguin capaces de donar continuïtat al treball engegat de manera autònoma, fent sostenible els resultats a llarg termini i fins i tot tirant endavant noves iniciatives",
         "author": "Com",
         "bg": "bgGray100",
-        "color": "textBlack",
+        "color": "textGray800",
         "id": "003"
     },
     {
         "quote": "Amb la creació de plans estratègics i d'innovació cultural, així com la creació d'activitats i d'iniciatives culturals, socials i educatives posant la persona al centre",
         "author": "Què",
         "bg": "bgGray200",
-        "color": "textBlack",
+        "color": "textGray700",
         "id": "004"
     },
     {
         "quote": "Apropar la cultura a la societat com a motor de millora i innovació social",
         "author": "Missió",
         "bg": "bgGray300",
-        "color": "textBlack",
+        "color": "textGray600",
         "id": "005"
     },
     {
         "quote": "Treballem per desenvolupar una metodologia accessible, les eines adients i els canals propis per assegurar l'accés universal a la cultura",
         "author": "Visió",
         "bg": "bgGray400",
-        "color": "textBlack",
+        "color": "textGray500",
         "id": "006"
     },
     {
         "quote": "Les persones són l'eix principal de tots els projectes i les activitats que fem. Hem creat un equip multidisciplinari cohesionat i volem que les organitzacions a les quals donem suport ens considerin part de l'equip i sentin que el seu és un projecte compartit.",
         "author": "Valor: Les persones primer",
         "bg": "bgGray500",
-        "color": "textBlack",
+        "color": "textGray400",
         "id": "007"
     },
     {
         "quote": "Som corresponsables dels resultats que ajudem a assolir i de les decisions que ajudem a prendre a emprenedors/es, empresaris/es i l'equip humà d'organitzacions i institucions.",
         "author": "Valor: Corresponsabilitat",
         "bg": "bgGray600",
-        "color": "textWhite",
+        "color": "textGray300",
         "id": "008"
     },
     {
         "quote": "Volem oferir una metodologia i unes eines perquè les organitzacions i les persones a qui donem suport siguin capaces de donar continuïtat al treball engegat, de manera autònoma, fent sostenible els resultats a llarg termini i fins i tot tirant endavant noves iniciatives",
         "author": "Valor: Empoderament",
         "bg": "bgGray700",
-        "color": "textWhite",
+        "color": "textGray200",
         "id": "009"
     },
     {
         "quote": "No hi ha dues accions ni dos projectes idèntics, encara que es basin en la mateixa metodologia o comparteixin alguns pilars. Per aquest motiu, sempre cerquem la millora contínua i el valor afegit en tota la cadena de valor dels projectes a través de la línia estratègica d'R+D+I.",
         "author": "Valor: Creativitat i innovació",
         "bg": "bgGray800",
-        "color": "textWhite",
+        "color": "textGray100",
         "id": "010"
     },
     {
         "quote": "Totes les persones de l'equip tenim la llibertat d'expressar la nostra opinió i compartim tot el coneixement i la informació que generem, de manera interna i externa.",
         "author": "Valor: Transparència i comunicació",
         "bg": "bgGray900",
-        "color": "textWhite",
+        "color": "textGray50",
         "id": "011"
     }
 ]
