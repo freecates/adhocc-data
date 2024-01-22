@@ -1,44 +1,48 @@
-[
-    {
-        "name": "SID",
-        "img": "https://adhocc-data.vercel.app/static/partners/sid-publicitat.jpg",
-        "description": "Amb seu a Figueres, aquest estudi situat a comarques treballa en projectes internacionals amb treballs que han arribat a llocs com Japó (Conjunt d'il·lustracions per a un espectacle audiovisual al circuit de Motegui), Finlàndia, els Estats Units o Suïssa, al Museu Olímpic de Lausana, on es va dissenyar i coordinar l'exposició “High Sports top Spirits” dedicada a promocionar “The World Games”. Paral·lelament a la feina gràfica tradicional, Sid Estudi estudia el terreny de les noves tecnologies de comunicació visual com l'entorn web o la interacció.",
-        "id": "001",
-        "type": "partners"
-    },
-    {
-        "name": "OXYGEN",
-        "img": "https://adhocc-data.vercel.app/static/partners/oxygen.jpg",
-        "description": "Oxygen és una empresa tecnològica i creativa amb seu a Barcelona amb més de 18 anys de trajectòria, en la qual hi ha experts en comunicació corporativa, disseny web, programació i sistemes informàtics, per a la realització de projectes ambiciosos a Internet. La nostra col·laboració amb aquesta empresa ens permet posar a disposició dels nostres clients un conjunt de serveis comunicatius i productes tecnològics avançats per potenciar la identitat digital corporativa a la xarxa. És una empresa petita per disseny. S'han resistit a la temptació de créixer més perquè creuen que treballen millor mantenint-se petits i mantenint la capacitat d'establir relacions a llarg termini amb els seus clients.",
-        "id": "002",
-        "type": "partners"
-    },
-    {
-        "name": "MARTA CARRETÉ",
-        "img": "https://adhocc-data.vercel.app/static/partners/marta-carrete.jpg",
-        "description": "Especialista en comunicació i màrqueting estratègic. Llicenciada en Belles Arts per la UB. Projectes Publicitaris i Clients: Mediació i Negociació a l'Institut Superior de Màrqueting. La seva trajectòria professional portant a terme la gestió dels departaments de Comunicació i RRPP a sectors de healthcare i organitzacions no governamentals i posteriorment a sectors enfocats a l'empresa privada, ens aporta la solidesa i l'experiència necessària per a desenvolupar els nostres programes de comunicació. Aportant d'aquesta manera el planning i implementació des d'una òptica 360º dels projectes en un enfocament global d'orientació tant estratègica com gràfica.",
-        "id": "003",
-        "type": "partners"
-    },
-    {
-        "name": "PLAY MEDIA",
-        "img": "https://adhocc-data.vercel.app/static/partners/play-media.jpg",
-        "description": "Una empresa de màrqueting experiencial, comunicació i disseny, formada per arquitectes, consultors de marca, experts en màrqueting, dissenyadors de producte, d'interiors i gràfic, pedagogs, directors d'art, dissenyadors 2d i 3d, creatius multimèdia, enginyers audiovisuals i especialistes en producció d'esdeveniments. Creem projectes de museografia, arquitectura corporativa, stands i pavellons, màrqueting experiencial, esdeveniments i comunicació, showrooms, espais vivencials i de difusió de producte i marca.",
-        "id": "004",
-        "type": "partners"
-    },
-    {
-        "name": "BERMAC",
-        "img": "https://adhocc-data.vercel.app/static/partners/bermac.jpg",
-        "description": "Dissenyem, prototipeam i construïm objectes i exhibicions, convertint les teves idees en productes reals que la gent pot usar -i gaudir. Som <em>makers</em>. Ens embrutem les mans per convertir les teves idees en realitat. I gaudim fent-ho. Sempre. Amb amor i suor. Construir coses no és fàcil. Comporta tones d'amor i suor. I això és precisament el que t'oferim. De l'A a la Z. Des de prototips inicials, fins a productes acabats que pots vendre. És un camí llarg. I podem caminar-lo junts, d'inici a fi.",
-        "id": "005",
-        "type": "partners"
-    },
-    {
-        "name": "LA TAULA",
-        "img": "https://adhocc-data.vercel.app/static/partners/la-taula-coop.jpg",
-        "description": "La cooperativa LA TAULA treballa en l'àmbit de la cultura i la sostenibilitat. Ofereix serveis de consultoria a través metodologies creatives en investigació i planificació de polítiques culturals, dinamització d'espais de participació i desenvolupament de recursos formatius. Fa divulgació creativa convertint continguts culturals, socials i ambientals en jocs de taula, visites guiades, exposicions, esdeveniments singulars i recursos gràfics i audiovisuals.",
-        "id": "006",
-        "type": "partners"
-    }
-]
+{
+    "title": "Partners",
+    "description": "Les aliances estratègiques ens permeten idear i desenvolupar projectes conjuntament, així com transmetre la tecnologia i la metodologia a la vegada que compartim experiències i recursos.",
+    "data": [
+        {
+            "name": "SID",
+            "img": "https://adhocc-data.vercel.app/static/partners/sid-publicitat.jpg",
+            "description": "Amb seu a Figueres, aquest estudi situat a comarques treballa en projectes internacionals amb treballs que han arribat a llocs com Japó (Conjunt d'il·lustracions per a un espectacle audiovisual al circuit de Motegui), Finlàndia, els Estats Units o Suïssa, al Museu Olímpic de Lausana, on es va dissenyar i coordinar l'exposició “High Sports top Spirits” dedicada a promocionar “The World Games”. Paral·lelament a la feina gràfica tradicional, Sid Estudi estudia el terreny de les noves tecnologies de comunicació visual com l'entorn web o la interacció.",
+            "id": "001",
+            "type": "partners"
+        },
+        {
+            "name": "OXYGEN",
+            "img": "https://adhocc-data.vercel.app/static/partners/oxygen.jpg",
+            "description": "Oxygen és una empresa tecnològica i creativa amb seu a Barcelona amb més de 18 anys de trajectòria, en la qual hi ha experts en comunicació corporativa, disseny web, programació i sistemes informàtics, per a la realització de projectes ambiciosos a Internet. La nostra col·laboració amb aquesta empresa ens permet posar a disposició dels nostres clients un conjunt de serveis comunicatius i productes tecnològics avançats per potenciar la identitat digital corporativa a la xarxa. És una empresa petita per disseny. S'han resistit a la temptació de créixer més perquè creuen que treballen millor mantenint-se petits i mantenint la capacitat d'establir relacions a llarg termini amb els seus clients.",
+            "id": "002",
+            "type": "partners"
+        },
+        {
+            "name": "MARTA CARRETÉ",
+            "img": "https://adhocc-data.vercel.app/static/partners/marta-carrete.jpg",
+            "description": "Especialista en comunicació i màrqueting estratègic. Llicenciada en Belles Arts per la UB. Projectes Publicitaris i Clients: Mediació i Negociació a l'Institut Superior de Màrqueting. La seva trajectòria professional portant a terme la gestió dels departaments de Comunicació i RRPP a sectors de healthcare i organitzacions no governamentals i posteriorment a sectors enfocats a l'empresa privada, ens aporta la solidesa i l'experiència necessària per a desenvolupar els nostres programes de comunicació. Aportant d'aquesta manera el planning i implementació des d'una òptica 360º dels projectes en un enfocament global d'orientació tant estratègica com gràfica.",
+            "id": "003",
+            "type": "partners"
+        },
+        {
+            "name": "PLAY MEDIA",
+            "img": "https://adhocc-data.vercel.app/static/partners/play-media.jpg",
+            "description": "Una empresa de màrqueting experiencial, comunicació i disseny, formada per arquitectes, consultors de marca, experts en màrqueting, dissenyadors de producte, d'interiors i gràfic, pedagogs, directors d'art, dissenyadors 2d i 3d, creatius multimèdia, enginyers audiovisuals i especialistes en producció d'esdeveniments. Creem projectes de museografia, arquitectura corporativa, stands i pavellons, màrqueting experiencial, esdeveniments i comunicació, showrooms, espais vivencials i de difusió de producte i marca.",
+            "id": "004",
+            "type": "partners"
+        },
+        {
+            "name": "BERMAC",
+            "img": "https://adhocc-data.vercel.app/static/partners/bermac.jpg",
+            "description": "Dissenyem, prototipeam i construïm objectes i exhibicions, convertint les teves idees en productes reals que la gent pot usar -i gaudir. Som <em>makers</em>. Ens embrutem les mans per convertir les teves idees en realitat. I gaudim fent-ho. Sempre. Amb amor i suor. Construir coses no és fàcil. Comporta tones d'amor i suor. I això és precisament el que t'oferim. De l'A a la Z. Des de prototips inicials, fins a productes acabats que pots vendre. És un camí llarg. I podem caminar-lo junts, d'inici a fi.",
+            "id": "005",
+            "type": "partners"
+        },
+        {
+            "name": "LA TAULA",
+            "img": "https://adhocc-data.vercel.app/static/partners/la-taula-coop.jpg",
+            "description": "La cooperativa LA TAULA treballa en l'àmbit de la cultura i la sostenibilitat. Ofereix serveis de consultoria a través metodologies creatives en investigació i planificació de polítiques culturals, dinamització d'espais de participació i desenvolupament de recursos formatius. Fa divulgació creativa convertint continguts culturals, socials i ambientals en jocs de taula, visites guiades, exposicions, esdeveniments singulars i recursos gràfics i audiovisuals.",
+            "id": "006",
+            "type": "partners"
+        }
+    ]
+}
