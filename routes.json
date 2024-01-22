@@ -20,6 +20,10 @@
         "url": "/treballem-per"
     },
     {
+        "name": "Projectes",
+        "url": "/projectes"
+    },
+    {
         "name": "Contacte",
         "url": "/contacte",
         "icon": {
