@@ -24,6 +24,10 @@
         "url": "/projectes"
     },
     {
+        "name": "Actualitat",
+        "url": "/actualitat"
+    },
+    {
         "name": "Contacte",
         "url": "/contacte",
         "icon": {
