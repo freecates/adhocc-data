@@ -1,13 +1,13 @@
 [
   {
-    "name":"Adhoc Cultura",
-    "lat":"41.5509883",
-    "lng":"2.1055524",
-    "address":"Carrer Sant Francesc, 16",
-    "code":"08950",
-    "city":"Sabadell, Barcelona",
-    "tel":"677720522",
-    "mail":"info@adhoc-cultura.com",
-    "id": "001"
+      "name": "Adhoc Cultura",
+      "lat": "41.5510239",
+      "lng": "2.1076445",
+      "address": "Carrer Sant Francesc, 16",
+      "code": "08950",
+      "city": "Sabadell, Barcelona",
+      "tel": "677720522",
+      "mail": "info@adhoc-cultura.com",
+      "id": "001"
   }
 ]

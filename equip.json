@@ -6,45 +6,45 @@
         "id": "001"
     },
     {
-        "name": "Ramon Gil",
-        "photo": "https://adhocc-data.vercel.app/static/team/ramon-gil-perfil-adhoc-cultura.jpg",
-        "bio": "Consultor TIC amb formació en MBA - i Business, Economics, Management and Internet Related Business per la Universitat Pompeu Fabra de Barcelona. És expert en comunicació corporativa i aplicació de tecnologia avançada de codi obert per potenciar els projectes i la identitat digital de les empreses i els professionals a la xarxa.",
-        "id": "008"
-    },
-    {
-        "name": "Lluís Puigbert",
-        "photo": "https://adhocc-data.vercel.app/static/team/lluis-puigvert-perfil-adhoc-cultura.jpg",
-        "bio": "Dissenyador gràfic i il·lustrador. Figueres, 1968. Va estudiar disseny gràfic a l'Escola Superior de Disseny i d'Art Llotja, de Barcelona, treballant paral·lelament a l'estudi Rozas de la mateixa ciutat. Després d'un temps com a freelance el 1996 va crear l'estudi de disseny, Sid Publicitat. En el terreny de la il·lustració combina el dibuix publicitari amb l'humor gràfic, des de fa més de 22 anys dibuixant una tira còmica al Setmanari de l'Alt l'Empordà i actualment al Setmanari la República i als digitals el Web Negre i La Maranya digital. També com a ninotaire ha col·laborat al Punt diari durant 13 anys, el digital E-notícies i al Setmanari Presència i ha participat en diversos llibres de reculls amb diferents ninotaires com <em>Enfoteu-vos-en</em> o <em>fins els Borbons</em> entre d'altres.",
-        "id": "007"
-    },
-    {
-        "name": "Mar Alfonso",
-        "photo": "https://adhocc-data.vercel.app/static/team/mar-alfonso-perfil-adhoc-cultura.jpg",
-        "bio": "Graduada en Medicina per la Universitat Autònoma de Barcelona (2021) i postgraduada en Producció i Gestió d’Espectacles i Festivals per la Universitat de Barcelona (2023). Ha fet de Gestora Cultural en pràctiques a l’Institut Català de la Salut, on ha donat suport als programes d’Arts en Salut i ICSarts, i ha col·laborat en el desplegament territorial d’aquests dos programes. És partidària de la sinèrgia cultura – salut; entenent la cultura com una eina de transformació social que és capaç de millorar el benestar de les persones. Per això, aposta per projectes híbrids i innovadors.",
-        "id": "004"
-    },
-    {
-        "name": "Núria Serrat",
-        "photo": "https://adhocc-data.vercel.app/static/team/nuria-serrat-perfil-adhoc-cultura.jpg",
-        "bio": "És doctora en Pedagogia per la Universitat de Barcelona. Col·laboradora de múltiples museus i institucions culturals, i acreditada com a facilitadora oficial de LEGO Serious Play.  És professora al Grau d’Educació infantil i directora de Treballs Finals de Grau a Umanresa. Professora agregada per la Universitat de Barcelona en assignatures de Grau i Màster. S’ha especialitzat en metodologia i innovació docent a l’àmbit universitari.",
-        "id": "003"
-    },
-    {
-        "name": "Ada Pruneda",
-        "photo": "https://adhocc-data.vercel.app/static/team/ada-pruneda-perfil-adhoc-cultura.jpg",
-        "bio": "Llicenciada en Història de l'art per la Universitat de Girona (2010), màster en Comunicació i crítica de l'art per la mateixa Universitat (2012), i màster de professorat d'ESO i batxillerat per la Universitat internacional de València (2020), fa més de deu anys que treballa en el món de l'art, la cultura i l'educació. Es defineix com a art-educadora ja que la seva formació i experiència professional l'han portat a treballar en àmbits on l'art i l'educació s'entrellacen i es nodreixen entre si. La seva principal motivació és despertar l'esperit crític dels qui acompanya en el llarg camí de l'aprenentatge.",
-        "id": "005"
-    },
-    {
         "name": "Laia Estañol",
         "photo": "https://adhocc-data.vercel.app/static/team/laia-estanol-perfil-adhoc-cultura.jpg",
-        "bio": "Graduada en Història de l’Art per la Universitat de Barcelona (2019) i Màster en Gestió de Patrimoni Cultural i Museologia per la mateixa universitat (2021). Està especialitzada en el món de la gestió cultural i patrimoni. Actualment coordina i lidera projectes estratègics i la seva implementació, així com l’elaboració de plans educatius per a diferents institucions museístiques i patrimonials. A la vegada, és facilitadora educativa i està formada en metodologies com el Design Thinking.",
+        "bio": "Graduada en Història de l'Art per la Universitat de Barcelona (2019) i Màster en Gestió de Patrimoni Cultural i Museologia per la mateixa universitat (2021). Està especialitzada en el món de la gestió cultural i patrimoni. Actualment coordina i lidera projectes estratègics i la seva implementació, així com l'elaboració de plans educatius per a diferents institucions museístiques i patrimonials. A la vegada, és facilitadora educativa i està formada en metodologies com el Design Thinking.",
         "id": "002"
     },
     {
         "name": "Clara Forteza",
         "photo": "https://adhocc-data.vercel.app/static/team/clara-forteza-perfil-adhoc-cultura.jpg",
-        "bio": "Graduada en conservació i restauració de béns culturals (2019) a la Universitat de Barcelona i Màster de Gestió de Patrimoni Cultural i Museologia (2021) a la mateixa universitat. Al llarg de la seva trajectòria laboral ha tingut experiències en diferents sectors culturals. Va començar com a voluntària a la Necròpolis de Son Real a Mallorca (2016 i 2017) fent tasques d’excavació i consolidació d'estructures. Durant la carrera va fer les pràctiques al Centre de Béns Mobles de Catalunya amb l'especialitat de material gràfic, i al màster va fer pràctiques a dues galeries d’art on va aprendre sobre la gestió i muntatge d'exposicions. Va estar treballant juntament amb la Núria Serrat amb l’elaboració de projectes culturals, també va ser coordinadora de la Primera Edició del Festival Openhouse a Palma desenvolupant feines d’organització i producció de l’esdeveniment, i finalment també ha tingut experiència com a conservadora-restauradora. Va ser dinamitzadora del Webinar Museus Post-Covid, i va fer una sessió formativa de Manual Thinking implementada per Adhoc Cultura.",
+        "bio": "Graduada en conservació i restauració de béns culturals (2019) a la Universitat de Barcelona i Màster de Gestió de Patrimoni Cultural i Museologia (2021) a la mateixa universitat. Al llarg de la seva trajectòria laboral ha tingut experiències en diferents sectors culturals. Va començar com a voluntària a la Necròpolis de Son Real a Mallorca (2016 i 2017) fent tasques d'excavació i consolidació d'estructures. Durant la carrera va fer les pràctiques al Centre de Béns Mobles de Catalunya amb l'especialitat de material gràfic, i al màster va fer pràctiques a dues galeries d'art on va aprendre sobre la gestió i muntatge d'exposicions. Va estar treballant juntament amb la Núria Serrat amb l'elaboració de projectes culturals, també va ser coordinadora de la Primera Edició del Festival Openhouse a Palma desenvolupant feines d'organització i producció de l'esdeveniment, i finalment també ha tingut experiència com a conservadora-restauradora. Va ser dinamitzadora del Webinar Museus Post-Covid, i va fer una sessió formativa de Manual Thinking implementada per Adhoc Cultura.",
+        "id": "003"
+    },
+    {
+        "name": "Mar Alfonso",
+        "photo": "https://adhocc-data.vercel.app/static/team/mar-alfonso-perfil-adhoc-cultura.jpg",
+        "bio": "Graduada en Medicina per la Universitat Autònoma de Barcelona (2021) i postgraduada en Producció i Gestió d'Espectacles i Festivals per la Universitat de Barcelona (2023). Ha fet de Gestora Cultural en pràctiques a l'Institut Català de la Salut, on ha donat suport als programes d'Arts en Salut i ICSarts, i ha col·laborat en el desplegament territorial d'aquests dos programes. És partidària de la sinèrgia cultura - salut; entenent la cultura com una eina de transformació social que és capaç de millorar el benestar de les persones. Per això, aposta per projectes híbrids i innovadors.",
+        "id": "004"
+    },
+    {
+        "name": "Núria Serrat",
+        "photo": "https://adhocc-data.vercel.app/static/team/nuria-serrat-perfil-adhoc-cultura.jpg",
+        "bio": "És doctora en Pedagogia per la Universitat de Barcelona. Col·laboradora de múltiples museus i institucions culturals, i acreditada com a facilitadora oficial de LEGO Serious Play.  És professora al Grau d'Educació infantil i directora de Treballs Finals de Grau a Umanresa. Professora agregada per la Universitat de Barcelona en assignatures de Grau i Màster. S'ha especialitzat en metodologia i innovació docent a l'àmbit universitari.",
+        "id": "005"
+    },
+    {
+        "name": "Lluís Puigbert",
+        "photo": "https://adhocc-data.vercel.app/static/team/lluis-puigvert-perfil-adhoc-cultura.jpg",
+        "bio": "Dissenyador gràfic i il·lustrador. Figueres, 1968. Va estudiar disseny gràfic a l'Escola Superior de Disseny i d'Art Llotja, de Barcelona, treballant paral·lelament a l'estudi Rozas de la mateixa ciutat. Després d'un temps com a freelance el 1996 va crear l'estudi de disseny, Sid Publicitat. En el terreny de la il·lustració combina el dibuix publicitari amb l'humor gràfic, des de fa més de 22 anys dibuixant una tira còmica al Setmanari de l'Alt l'Empordà i actualment al Setmanari la República i als digitals el Web Negre i La Maranya digital. També com a ninotaire ha col·laborat al Punt diari durant 13 anys, el digital E-notícies i al Setmanari Presència i ha participat en diversos llibres de reculls amb diferents ninotaires com <em>Enfoteu-vos-en</em> o <em>fins els Borbons</em> entre d'altres.",
         "id": "006"
+    },
+    {
+        "name": "Ramon Gil",
+        "photo": "https://adhocc-data.vercel.app/static/team/ramon-gil-perfil-adhoc-cultura.jpg",
+        "bio": "Consultor TIC amb formació en MBA - i Business, Economics, Management and Internet Related Business per la Universitat Pompeu Fabra de Barcelona. És expert en comunicació corporativa i aplicació de tecnologia avançada de codi obert per potenciar els projectes i la identitat digital de les empreses i els professionals a la xarxa.",
+        "id": "007"
+    },
+    {
+        "name": "Laura Álvarez",
+        "photo": "https://adhocc-data.vercel.app/static/team/laura-alvarez-perfil-adhoc-cultura.jpg",
+        "bio": "Consultor TIC amb formació en MBA - i Business, Economics, Management and Internet Related Business per la Universitat Pompeu Fabra de Barcelona. És expert en comunicació corporativa i aplicació de tecnologia avançada de codi obert per potenciar els projectes i la identitat digital de les empreses i els professionals a la xarxa.",
+        "id": "008"
     }
 ]
