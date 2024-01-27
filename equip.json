@@ -1,6 +1,10 @@
 {
     "title": "Qui som",
     "description": "Totes les persones de l'equip tenim la llibertat d'expressar la nostra opinió i compartim tot el coneixement i la informació que generem, de manera interna i externa.",
+    "icon": {
+        "name": "square-user-round",
+        "size": "24"
+    },
     "author": "Valor: Transparència i comunicació",
     "data": [
         {
