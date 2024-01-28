@@ -1,0 +1,3 @@
+Sóc l'IT Crowd :P que assesora en TIC l'equip d'Adhoc Cultura. 
+
+Gràcies a la meva formació MBA, en Business, Economics, Management and Internet Related Business per la Universitat Pompeu Fabra de Barcelona i la meva dilatada trajectòria professional puc aportar una visió àmplia en l'assesorament i l'aplicació de tecnologia avançada de codi obert per potenciar els projectes i la identitat digital de les empreses i els professionals a la xarxa.
