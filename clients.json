@@ -158,5 +158,30 @@
         "name": "Bibloiteques de l'Hospitalet",
         "logo": "https://adhocc-data.vercel.app/static/clients/biblioteques-de-l-hospitalet-adhoc-cultura.jpg",
         "id": "032"
+    },
+    {
+        "name": "Apropa Cultura",
+        "logo": "https://adhocc-data.vercel.app/static/clients/apopa-cultura-adhoc-cultura.jpg",
+        "id": "033"
+    },
+    {
+        "name": "Museu Gavà",
+        "logo": "https://adhocc-data.vercel.app/static/clients/museu-gava-adhoc-cultura.jpg",
+        "id": "034"
+    },
+    {
+        "name": "Jardí Arqueològic de Barberà",
+        "logo": "https://adhocc-data.vercel.app/static/clients/jardi-arqueologic-de-barbera-adhoc-cultura.jpg",
+        "id": "035"
+    },
+    {
+        "name": "Museu Frederic Marès",
+        "logo": "https://adhocc-data.vercel.app/static/clients/museu-frederic-mares-adhoc-cultura.jpg",
+        "id": "036"
+    },
+    {
+        "name": "Observatori del Paisatge",
+        "logo": "https://adhocc-data.vercel.app/static/clients/observatori-del-paisatge-adhoc-cultura.jpg",
+        "id": "037"
     }
 ]
