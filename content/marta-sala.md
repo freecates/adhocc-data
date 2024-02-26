@@ -1,0 +1,7 @@
+Innovadora social i co-creadora d’experiències culturals i d’aprenentatge. Llicenciada en Comunicació Audiovisual (UPF-2010), Postgrau en Marketing Polític- Estratègies i Comunicació Política (ICPS-UAB 2013) Màster Executiu en Aministració d'Empreses (EAE-2018) i amb formació complementària en Catalització i Dinamització Comunitària (2022 - Balkar.Earth).
+
+
+Especialitzada en comunicació estratègica, i en el disseny i dinamització d'experiències d'aprenentatge mitjançant metodologies i processos de co-creació. Gestora de múltiples projectes multidisciplinars relacionats amb l'aprenentatge en diferents àmbits (corporatiu, públic), essent responsable de creativitat i innovació durant 5 anys de la consultora Cookie Box, i els últims tres anys col·laborant  amb Adhoc Cultura en el disseny i desenvolupant creatiu d’experiències, continguts i la mentoria en sessións de co-creació i innovació 
+
+
+Em fascina el poder de la co-creació, quan les singularitats i el potencial de cada persona es combina i flueixen amb la d’altres al voltant d’un propòsit compartit. M’encanta fer que les coses passin i implicar-me en els canvis que vull veure al món. M’encanta experimentar i hibridar entre agents, disciplines, formats i sectors, i facilitar les confluències creatives entre motivacions, capacitats i interessos.

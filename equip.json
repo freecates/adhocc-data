@@ -74,6 +74,14 @@
             "type": "collaborator",
             "slug": "laura-alvarez",
             "id": "008"
+        },
+        {
+            "title": "Marta Sala",
+            "photo": "https://adhocc-data.vercel.app/static/team/marta-sala-perfil-adhoc-cultura.jpg",
+            "name": "Em fascina el poder de la co-creació, quan les singularitats i el potencial de cada persona es combina i flueixen amb la d'altres al voltant d'un propòsit compartit.",
+            "type": "collaborator",
+            "slug": "marta-sala",
+            "id": "009"
         }
     ]
 }
