@@ -1,5 +1,10 @@
 [
     {
+        "name": "MNAC",
+        "logo": "https://adhocc-data.vercel.app/static/clients/mnac-adhoc-cultura.jpg",
+        "id": "000"
+    },
+    {
         "name": "MAC",
         "logo": "https://adhocc-data.vercel.app/static/clients/mac-adhoc-cultura.jpg",
         "id": "001"
