@@ -44,12 +44,20 @@
             "id": "004"
         },
         {
+            "title": "Susi Delgado",
+            "photo": "https://adhocc-data.vercel.app/static/team/susi-delgado-perfil-adhoc-cultura.jpg",
+            "name": "Em dedico a la comunicació a Adhoc Cultura i a la mediació del programa Apropa Cultura a la província de Barcelona, que proporciona accés a activitats teatrals, musicals i museístiques a entitats socials que treballen amb persones en situació de vulnerabilitat",
+            "type": "team",
+            "slug": "susi-delgado",
+            "id": "005"
+        },
+        {
             "title": "Núria Serrat",
             "photo": "https://adhocc-data.vercel.app/static/team/nuria-serrat-perfil-adhoc-cultura.jpg",
             "name": "La unió de la meva experiència pràctica amb la meva formació com a facilitadora certificada en solució creativa de problemes em permeten explorar noves oportunitats i contribuir a la innovació en el camp de l'educació i la difusió del patrimoni.",
             "type": "partner",
             "slug": "nuria-serrat",
-            "id": "005"
+            "id": "006"
         },
         {
             "title": "Lluís Puigbert",
@@ -57,7 +65,7 @@
             "name": "La flexibilitat de poder passar de la il·lustració al grafisme em facilita portar la creativitat on la imaginació em dirigeix",
             "type": "partner",
             "slug": "lluis-puigbert",
-            "id": "006"
+            "id": "007"
         },
         {
             "title": "Ramon Gil",
@@ -65,7 +73,7 @@
             "name": "Sóc l'IT Crowd :P que assesora en TIC l'equip d'Adhoc Cultura.",
             "type": "partner",
             "slug": "ramon-gil",
-            "id": "007"
+            "id": "008"
         },
         {
             "title": "Laura Álvarez",
@@ -73,7 +81,7 @@
             "name": "Em defineixen la curiositat, la versatilitat i el compromís per crear projectes que tinguin un impacte positiu en les persones.",
             "type": "collaborator",
             "slug": "laura-alvarez",
-            "id": "008"
+            "id": "009"
         },
         {
             "title": "Marta Sala",
@@ -81,7 +89,7 @@
             "name": "Em fascina el poder de la co-creació, quan les singularitats i el potencial de cada persona es combina i flueixen amb la d'altres al voltant d'un propòsit compartit.",
             "type": "collaborator",
             "slug": "marta-sala",
-            "id": "009"
+            "id": "010"
         }
     ]
 }
