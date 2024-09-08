@@ -52,12 +52,28 @@
             "id": "005"
         },
         {
+            "title": "Melani Mateos",
+            "photo": "https://adhocc-data.vercel.app/static/team/melani-mateos-perfil-adhoc-cultura.jpg",
+            "name": "A Adhoc Cultura, treballo en diversos projectes, centrant-me en la mediació i el disseny de programes que busquen apropar l'art i la cultura a col·lectius diversos",
+            "type": "team",
+            "slug": "melani-mateos",
+            "id": "006"
+        },
+        {
+            "title": "Elena Costa",
+            "photo": "https://adhocc-data.vercel.app/static/team/elena-costa-perfil-adhoc-cultura.jpg",
+            "name": "A Adhoc Cultura, treballo en diversos projectes, centrant-me en la mediació i el disseny de programes que busquen apropar l'art i la cultura a col·lectius diversos",
+            "type": "team",
+            "slug": "elena-costa",
+            "id": "007"
+        },
+        {
             "title": "Núria Serrat",
             "photo": "https://adhocc-data.vercel.app/static/team/nuria-serrat-perfil-adhoc-cultura.jpg",
             "name": "La unió de la meva experiència pràctica amb la meva formació com a facilitadora certificada en solució creativa de problemes em permeten explorar noves oportunitats i contribuir a la innovació en el camp de l'educació i la difusió del patrimoni.",
             "type": "partner",
             "slug": "nuria-serrat",
-            "id": "006"
+            "id": "008"
         },
         {
             "title": "Lluís Puigbert",
@@ -65,7 +81,7 @@
             "name": "La flexibilitat de poder passar de la il·lustració al grafisme em facilita portar la creativitat on la imaginació em dirigeix",
             "type": "partner",
             "slug": "lluis-puigbert",
-            "id": "007"
+            "id": "009"
         },
         {
             "title": "Ramon Gil",
@@ -73,7 +89,7 @@
             "name": "Sóc l'IT Crowd :P que assesora en TIC l'equip d'Adhoc Cultura.",
             "type": "partner",
             "slug": "ramon-gil",
-            "id": "008"
+            "id": "010"
         },
         {
             "title": "Laura Álvarez",
@@ -81,7 +97,7 @@
             "name": "Em defineixen la curiositat, la versatilitat i el compromís per crear projectes que tinguin un impacte positiu en les persones.",
             "type": "collaborator",
             "slug": "laura-alvarez",
-            "id": "009"
+            "id": "011"
         },
         {
             "title": "Marta Sala",
@@ -89,7 +105,7 @@
             "name": "Em fascina el poder de la co-creació, quan les singularitats i el potencial de cada persona es combina i flueixen amb la d'altres al voltant d'un propòsit compartit.",
             "type": "collaborator",
             "slug": "marta-sala",
-            "id": "010"
+            "id": "012"
         }
     ]
 }
