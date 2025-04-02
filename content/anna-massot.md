@@ -1,0 +1,5 @@
+Soc Llicenciada en Comunicació, també Llicenciada en Publicitat i tinc Estudis Universitaris Superiors en Història de l'Art per la Universitat Oberta de Catalunya. També tinc un Màster en Educació i soc Diplomada en Turisme per la Universitat de Girona. He realitzat estudis de postgrau en Comunicació Estratègica a IESE i he fet estudis d'innovació pedagògica, art-educació i lideratge educatiu a Harvard, a Duke Univeristy i a MoMA NYC.
+
+Desenvolupo la meva activitat, des de fa més de quinze anys, en l'àmbit de l'educació, la comunicació, l'art i la cultura per a diverses institucions i equipaments museístics. 
+
+M'apassiona crear ponts, fer xarxa i connectar amb la comunitat i els públics. Crec en la màgia transformadora de l'art i la cultura a l'hora de fer una societat més tolerant, justa i equitativa. 

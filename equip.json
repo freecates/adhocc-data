@@ -106,6 +106,14 @@
             "type": "collaborator",
             "slug": "marta-sala",
             "id": "012"
+        },
+        {
+            "title": "Anna Massot",
+            "photo": "https://adhocc-data.vercel.app/static/team/anna-massot-perfil-adhoc-cultura.jpg",
+            "name": "M'apassiona crear ponts, fer xarxa i connectar amb la comunitat i els públics. Crec en la màgia transformadora de l'art i la cultura a l'hora de fer una societat més tolerant, justa i equitativa.",
+            "type": "collaborator",
+            "slug": "anna-massot",
+            "id": "013"
         }
     ]
 }
