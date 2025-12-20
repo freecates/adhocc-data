@@ -36,20 +36,12 @@
             "id": "003"
         },
         {
-            "title": "Mar Alfonso",
-            "photo": "https://adhocc-data.vercel.app/static/team/mar-alfonso-perfil-adhoc-cultura.webp",
-            "name": "Coordino projectes d'arts en salut",
-            "type": "team",
-            "slug": "mar-alfonso",
-            "id": "004"
-        },
-        {
             "title": "Susi Delgado",
             "photo": "https://adhocc-data.vercel.app/static/team/susi-delgado-perfil-adhoc-cultura.webp",
             "name": "Em dedico a la comunicació a Adhoc Cultura i a la mediació del programa Apropa Cultura a Barcelona, que proporciona accés a activitats teatrals, musicals i museístiques a entitats socials que treballen amb persones en situació de vulnerabilitat",
             "type": "team",
             "slug": "susi-delgado",
-            "id": "005"
+            "id": "004"
         },
         {
             "title": "Mel M. Blanco",
@@ -57,7 +49,7 @@
             "name": "A Adhoc Cultura, treballo en diversos projectes, centrant-me en la mediació i el disseny de programes que busquen apropar l'art i la cultura a col·lectius diversos",
             "type": "team",
             "slug": "mel-m-blanco",
-            "id": "006"
+            "id": "005"
         },
         {
             "title": "Elena Costa",
@@ -65,7 +57,7 @@
             "name": "Soc tècnica de projectes i mediadora a Apropa Cultura",
             "type": "team",
             "slug": "elena-costa",
-            "id": "007"
+            "id": "006"
         },
         {
             "title": "Alba Sabadell",
@@ -73,7 +65,7 @@
             "name": "Sóc tècnica de projectes culturals, i m'interessen especialment aquells espais en què cultura i educació interseccionen",
             "type": "team",
             "slug": "alba-sabadell",
-            "id": "008"
+            "id": "007"
         },
         {
             "title": "Núria Serrat",
@@ -81,7 +73,7 @@
             "name": "La unió de la meva experiència pràctica amb la meva formació com a facilitadora certificada en solució creativa de problemes em permeten explorar noves oportunitats i contribuir a la innovació en el camp de l'educació i la difusió del patrimoni.",
             "type": "partner",
             "slug": "nuria-serrat",
-            "id": "009"
+            "id": "008"
         },
         {
             "title": "Lluís Puigbert",
@@ -89,7 +81,7 @@
             "name": "La flexibilitat de poder passar de la il·lustració al grafisme em facilita portar la creativitat on la imaginació em dirigeix",
             "type": "partner",
             "slug": "lluis-puigbert",
-            "id": "010"
+            "id": "009"
         },
         {
             "title": "Ramon Gil",
@@ -97,7 +89,7 @@
             "name": "Sóc l'IT Crowd :P que assesora en TIC l'equip d'Adhoc Cultura.",
             "type": "partner",
             "slug": "ramon-gil",
-            "id": "011"
+            "id": "010"
         },
         {
             "title": "Laura Álvarez",
@@ -105,7 +97,7 @@
             "name": "Em defineixen la curiositat, la versatilitat i el compromís per crear projectes que tinguin un impacte positiu en les persones.",
             "type": "collaborator",
             "slug": "laura-alvarez",
-            "id": "012"
+            "id": "011"
         },
         {
             "title": "Marta Sala",
@@ -113,7 +105,7 @@
             "name": "Em fascina el poder de la co-creació, quan les singularitats i el potencial de cada persona es combina i flueixen amb la d'altres al voltant d'un propòsit compartit.",
             "type": "collaborator",
             "slug": "marta-sala",
-            "id": "013"
+            "id": "012"
         },
         {
             "title": "Anna Massot",
@@ -121,7 +113,7 @@
             "name": "M'apassiona crear ponts, fer xarxa i connectar amb la comunitat i els públics. Crec en la màgia transformadora de l'art i la cultura a l'hora de fer una societat més tolerant, justa i equitativa.",
             "type": "collaborator",
             "slug": "anna-massot",
-            "id": "014"
+            "id": "013"
         }
     ]
 }
