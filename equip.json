@@ -52,11 +52,11 @@
             "id": "005"
         },
         {
-            "title": "Elena Costa",
-            "photo": "https://adhocc-data.vercel.app/static/team/elena-costa-perfil-adhoc-cultura.webp",
+            "title": "Marta N. Tuà",
+            "photo": "https://adhocc-data.vercel.app/static/team/marta-n-tua-perfil-adhoc-cultura.webp",
             "name": "Soc tècnica de projectes i mediadora a Apropa Cultura",
             "type": "team",
-            "slug": "elena-costa",
+            "slug": "marta-n-tua",
             "id": "006"
         },
         {
@@ -68,12 +68,20 @@
             "id": "007"
         },
         {
+            "title": "Oscar Martínez Ciuró",
+            "photo": "https://adhocc-data.vercel.app/static/team/oscar-martinez-ciuro-perfil-adhoc-cultura.webp",
+            "name": "Soc gestor cultural i educador maker",
+            "type": "team",
+            "slug": "oscar-martinez-ciuro",
+            "id": "008"
+        },
+        {
             "title": "Núria Serrat",
             "photo": "https://adhocc-data.vercel.app/static/team/nuria-serrat-perfil-adhoc-cultura.webp",
             "name": "La unió de la meva experiència pràctica amb la meva formació com a facilitadora certificada en solució creativa de problemes em permeten explorar noves oportunitats i contribuir a la innovació en el camp de l'educació i la difusió del patrimoni.",
             "type": "partner",
             "slug": "nuria-serrat",
-            "id": "008"
+            "id": "009"
         },
         {
             "title": "Lluís Puigbert",
@@ -81,7 +89,7 @@
             "name": "La flexibilitat de poder passar de la il·lustració al grafisme em facilita portar la creativitat on la imaginació em dirigeix",
             "type": "partner",
             "slug": "lluis-puigbert",
-            "id": "009"
+            "id": "010"
         },
         {
             "title": "Ramon Gil",
@@ -89,7 +97,7 @@
             "name": "Sóc l'IT Crowd :P que assesora en TIC l'equip d'Adhoc Cultura.",
             "type": "partner",
             "slug": "ramon-gil",
-            "id": "010"
+            "id": "011"
         },
         {
             "title": "Laura Álvarez",
@@ -97,7 +105,7 @@
             "name": "Em defineixen la curiositat, la versatilitat i el compromís per crear projectes que tinguin un impacte positiu en les persones.",
             "type": "collaborator",
             "slug": "laura-alvarez",
-            "id": "011"
+            "id": "012"
         },
         {
             "title": "Marta Sala",
@@ -105,7 +113,7 @@
             "name": "Em fascina el poder de la co-creació, quan les singularitats i el potencial de cada persona es combina i flueixen amb la d'altres al voltant d'un propòsit compartit.",
             "type": "collaborator",
             "slug": "marta-sala",
-            "id": "012"
+            "id": "013"
         },
         {
             "title": "Anna Massot",
@@ -113,7 +121,7 @@
             "name": "M'apassiona crear ponts, fer xarxa i connectar amb la comunitat i els públics. Crec en la màgia transformadora de l'art i la cultura a l'hora de fer una societat més tolerant, justa i equitativa.",
             "type": "collaborator",
             "slug": "anna-massot",
-            "id": "013"
+            "id": "014"
         }
     ]
 }
